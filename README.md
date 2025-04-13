@@ -53,6 +53,8 @@ e funcionalidade, exibindo imagens animadas dos Pokémon, seus nomes e números 
 - Carregamento inicial automático do Pokémon de ID 1 (Bulbasaur).
 - Ícone de lupa interativo para realizar buscas.
 
+![](https://github.com/Jadson204/pokedex/blob/main/.gitassets/1.png)
+
 ## 💎 Links úteis 💎
 
 - [PokeAPI] (https://pokeapi.co/)

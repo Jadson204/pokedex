@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Jadson204/pokedex/blob/main/.gitassets/1.png" width="350" />
+    <img src="https://github.com/Jadson204/pokedex/blob/main/.gitassets/capa.png" width="350" />
     <div data-badges> <img src="https://img.shields.io/github/stars/Jadson204/pokedex?style=for-the-badge" alt="GitHub stars" /> <img src="https://img.shields.io/github/forks/Jadson204/pokedex?style=for-the-badge" alt="GitHub forks" /> <img src="https://img.shields.io/github/issues/Jadson204/pokedex?style=for-the-badge"
         alt="GitHub issues" /> </div>
     <div data-badges> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"

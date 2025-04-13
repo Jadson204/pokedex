@@ -56,3 +56,7 @@ e funcionalidade, exibindo imagens animadas dos Pokémon, seus nomes e números 
 ## 💎 Links úteis 💎
 
 - [PokeAPI] (https://pokeapi.co/)
+- [HTML5] (https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- [CSS3] (https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript] (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Github Pages] (https://pages.github.com/)
